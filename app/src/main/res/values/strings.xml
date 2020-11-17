@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomRetrofitOffline</string>
+    <string name="retry_text">oh! your not connected to a wifi or mobile data network.Please connect and try again</string>
+    <string name="retry">Retry</string>
+</resources>
